@@ -7,3 +7,4 @@ SZYMON: A co to znaczy ze mamy nanosic pliki na odpowiednia gałąz drzewa? jaka
 SZYMON:zdrobiłem "Stwórz Pull request domagające się dodania informacji o wersji"
 Kamil: To trzeba jeszcze te pierwsze pull request utworzyć bo nam brakuje tego
 Daniel: Nie wiem w sumie czy dobrze dodałem #include "stdafx.h" i "Ver 1.1", bo ja po prostu wyedytowałem plik
+Kamil: Poprawiłem komantarz w tych plikach. Jest git teraz
