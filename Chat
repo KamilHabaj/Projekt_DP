@@ -6,3 +6,4 @@ DANIEL: zrobiłem już to - "W obu plikach state.cpp i builder.cpp dodaj na gór
 SZYMON: A co to znaczy ze mamy nanosic pliki na odpowiednia gałąz drzewa? jaka jest odpowiednia?
 SZYMON:zdrobiłem "Stwórz Pull request domagające się dodania informacji o wersji"
 Kamil: To trzeba jeszcze te pierwsze pull request utworzyć bo nam brakuje tego
+Daniel: Nie wiem w sumie czy dobrze dodałem #include "stdafx.h" i "Ver 1.1", bo ja po prostu wyedytowałem plik
